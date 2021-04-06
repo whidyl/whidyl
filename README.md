@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whidyl
 - 👀 I’m interested in developing interesting applications that benefit the world in some way.
 - 🌱 I’m currently learning ReactJS, SwiftUI, and algorithm design. 
-- 💞️ I’m looking to collaborate on anything cool!
+- 🌎 I’m looking to collaborate, hmu!
 - 📫 Reach me through email: dylan.whst@gmail.com
 
 <!---
