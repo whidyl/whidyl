@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whidyl
+- 👋 Hi, I’m Dylan.
 - 👀 I’m interested in developing interesting applications that benefit the world in some way.
 - 🌱 I’m currently learning ReactJS, SwiftUI, and algorithm design. 
 - 🌎 I’m looking to collaborate, hmu!
