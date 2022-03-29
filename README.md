@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dylan.
 - 👀 I’m interested in developing interesting applications that feel great to use.
-- 🌱 I’m currently learning ReactJS, SwiftUI, and algorithm design. 
-- 🌎 I’m looking to collaborate, hmu!
+- 🌱 I’m currently a Computer Science student at CSU. 
 - 📫 Reach me through email: dylan.whst@gmail.com
 - Website/Portfolio: www.dylanwhitehurst.com
 
