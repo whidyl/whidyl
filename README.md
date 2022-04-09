@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dylan.
-- 👀 I’m interested in developing interesting applications that feel great to use.
 - 🌱 I’m currently a Computer Science student at CSU. 
 - 📫 Reach me through email: dylan.whst@gmail.com
 - Website/Portfolio: www.dylanwhitehurst.com
